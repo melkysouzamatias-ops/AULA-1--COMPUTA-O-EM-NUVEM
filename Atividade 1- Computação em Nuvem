@@ -1,0 +1,16 @@
+root@ubuntu:~$ mkdir atividade-nuvem
+root@ubuntu:~$ cd atividade-nuvem
+root@ubuntu:~/atividade-nuvem$ echo "nome dos integrantes: Elias e Melky 
+> disciplica: computacao em nuvem
+> ambiente utilizado: killercoda
+> sistema operacional: ubuntu 24.04
+> hostname: root" > mensagem.txt
+root@ubuntu:~/atividade-nuvem$ ls
+mensagem.txt
+root@ubuntu:~/atividade-nuvem$ cat mensagem.txt
+nome dos integrantes: Elias e Melky 
+disciplica: computacao em nuvem
+ambiente utilizado: killercoda
+sistema operacional: ubuntu 24.04
+hostname: root
+root@ubuntu:~/atividade-nuvem$
